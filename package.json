@@ -1,6 +1,6 @@
 {
   "name": "gulp-weex",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "gulp plugin for weex transformer",
   "main": "index.js",
   "scripts": {
