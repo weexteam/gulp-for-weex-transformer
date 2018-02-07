@@ -16,7 +16,7 @@
     "gulp"
   ],
   "author": "songsiqi <songsiqi2006@126.com>",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {
     "weex-transformer": "~0.4.2",
     "chalk": "~1.1.1",
